@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kosher Cert Verifier</string>
+    <string name="status_certified">CERTIFIED KOSHER</string>
+    <string name="status_uncertified">NOT CERTIFIED</string>
+    <string name="not_certified_yet">Not yet certified</string>
+    <string name="device_id_placeholder">Device ID: Unknown</string>
+    <string name="kosher_logo_desc">Kosher certification logo</string>
+    <string name="certification_info">This device is constantly being monitored for kosher certification compliance. The status shown reflects the current certification state.</string>
+</resources>
+
